@@ -115,29 +115,21 @@
             <div>
                 <h4><b>REVIEWS AND RATINGS :-
                     </b></h4>
-                <h4><b>Feedback Mechanism !
-
-                    </b></h4>
+                <h4><b>Feedback Mechanism !</b></h4>
                 <p>Projects can now give <b>transparent reviews</b> on their Audit experience. Also, the auditors can
                     build and showcase their ratings and reviews to get more audit projects.
                 </p>
             </div>
             <div>
-                <h4><b>WE SERVE CLIENTS FOR LONG TERM :-
-                    </b></h4>
-                <h4><b>Retainer Discounts and Cash-backs !
-                    </b></h4>
+                <h4><b>WE SERVE CLIENTS FOR LONG TERM :-</b></h4>
+                <h4><b>Retainer Discounts and Cash-backs !</b></h4>
                 <p>If projects come to us for the second time and later, then we greet them with heavy discounts and
                     cash-backs. We strive to be your one-stop solution to all your audit needs.
                 </p>
             </div>
             <div>
-                <h4><b>ADD-ONS AND OTHER BENEFITS :
-
-                    </b></h4>
-                <h4><b>Suite of Partner Services !
-
-                    </b></h4>
+                <h4><b>ADD-ONS AND OTHER BENEFITS :</b></h4>
+                <h4><b>Suite of Partner Services !</b></h4>
                 <p>We have ecosystem partners across all kinds of Blockchain services right from development to
                     marketing to Listing as a service to Legalities. Join hands with us to avail all these from our
                     partners with attractive offers.
