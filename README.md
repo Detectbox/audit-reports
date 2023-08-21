@@ -160,6 +160,11 @@
                 <a
                     href="https://calendly.com/founders_unsnarl/secure-your-startup-with-unsnarl">https://calendly.com/founders_unsnarl/secure-your-startup-with-unsnarl</a>
             </div>
+            <div>
+                <b>Read all our Audit Reports here: </b>
+                <a
+                    href="https://www.detectbox.io/audit-reports/introduction">https://www.detectbox.io/audit-reports/introduction</a>
+            </div>
         </section>
     </div>
 
